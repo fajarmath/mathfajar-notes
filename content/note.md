@@ -1,5 +1,5 @@
 ---
-title: Title
+title: 
 draft: false
-tags:
+tags: []
 ---
