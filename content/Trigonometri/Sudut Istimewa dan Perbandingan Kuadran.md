@@ -10,7 +10,7 @@ Sudut-sudut istimewa tersebut adalah:
 | $\tan \theta$ | $0$        | $\frac{1}{3}\sqrt 3$ | $1$                  | $\sqrt 3$            | $-$         |
 # Perbandingan Kuadran
 ---
-![kuadran{width=50%}](images/Trigonometri/kuadran.png)
+![kuadran](images/Trigonometri/kuadran.png)
 
 
 Perbandingan kuadran digunakan untuk menyatakan sudut-sudut di empat kuadran dengan memanfaatkan informasi sudut di kuadran pertama. Hal ini didasarkan pada nilai-nilai pada perbandingan trigonometri yang akan selalu berulang baik di setiap kuadrannya dan hanya dibedakan dengan nilai positif dan negatifnya saja. Perhatikan gambar di atas untuk memudahkan ilustrasi pembagian kuadran beserta nilai positif dan negatifnya untuk masing-masing kuadran.
