@@ -2,5 +2,5 @@
 title: Welcome to Quartz
 ---
 
-This is a blank Quartz installation.
+Halo selamat datang di catatan matematika kangfajar.
 
